@@ -19,9 +19,9 @@ An `Airline Reservation System` coded in `C++ language` using `Microsoft Visual 
     
 ### Working Screenshots
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Airline-Reservation-System/blob/main/extras/working-ss-1.png" alt = "" width="800px"/>
+  <img src = "https://github.com/SameetAsadullah/Airline-Reservation-System/blob/main/extras/working-ss-1.png" alt = "" width="700px"/>
 </div>
 <br/>
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Airline-Reservation-System/blob/main/extras/working-ss-2.png" alt = "" width="800px"/>
+  <img src = "https://github.com/SameetAsadullah/Airline-Reservation-System/blob/main/extras/working-ss-2.png" alt = "" width="700px"/>
 </div>
