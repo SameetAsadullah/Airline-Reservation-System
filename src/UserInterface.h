@@ -8,7 +8,7 @@ using namespace std;
 class UI {
 public:
 	void displayMenu(Graph &g) {
-		cout << "================ FLIGHT RESERVATION SYSTEM ================" << endl << endl;
+		cout << "================ AIRLINE RESERVATION SYSTEM ================" << endl << endl;
 		int a = -1;
 		while (a != 0) {
 			cout << "What type of search do u want?" << endl << endl;
